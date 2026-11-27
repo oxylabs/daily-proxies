@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
-  <a href="https://developers.oxylabs.io/products/web-api"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
+  <a href="https://developers.oxylabs.io/products/web-api?utm_source=github&utm_medium=referral&utm_content=daily-proxies&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
   <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/%F0%9F%92%AC_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
@@ -19,7 +19,7 @@ Oxylabs' proxies offer smooth integration with a broad spectrum of third-party s
 
 ## Quick and easy integration
 
-Oxylabs' proxies can be effortlessly integrated with a wide range of third-party software. Refer to our [documentation](https://developers.oxylabs.io/?_gl=1*7fgpbs*_gcl_aw*R0NMLjE3MDg2ODkyNzMuQ2owS0NRaUFvZUd1QmhDQkFSSXNBR2ZLWTd3QXVHdjRFWlV6NkNYZmYwaEhUZFJhdDZ1eFJyVDV0a2R1ZlBUNkFZVTBJUHZLN01tMVZOWWFBbERQRUFMd193Y0I.*_gcl_au*MTc2MDgxNTAwNC4xNzA1OTI3MzM0) for detailed information about all our products.
+Oxylabs' proxies can be effortlessly integrated with a wide range of third-party software. Refer to our [documentation](https://developers.oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=daily-proxies&groupid=877) for detailed information about all our products.
 
 ## Choose the proxy type for your daily tasks
 
